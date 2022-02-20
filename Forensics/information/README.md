@@ -45,6 +45,9 @@
 
 2. We can decode this string using [CyberChef](https://gchq.github.io/CyberChef/). Paste in the string and drag in the magic block into the recipe.
 
+
+https://gchq.github.io/CyberChef/#recipe=To_Base64('A-Za-z0-9%2B/%3D')Magic(3,false,false,'')
+
 ### Flag
 
 `picoCTF{the_m3tadata_1s_modified}`
